@@ -2,12 +2,12 @@
 801-721-6180  
 P8tter@gmail.com
 
-### Skills  
+## Skills  
 * C++   
 * Customer service expert  
 * Bilingual – Armenian  
 
-### Experience
+## Experience
 **Frontpoint** –– *Centerville, Utah* –– May 2011 - June 2013
 * Provided clients with IT support by remoting onto their machines to solve problems. 
 * Installed hardware for clients onsite afterhours 
@@ -23,10 +23,10 @@ P8tter@gmail.com
 * Developed an e-commerce company from an idea I had while searching for Christmas gifts. 
 * Explored advantageous solutions for manufacturing product, production, and shipping. 
 
-### Education
+## Education
 * Computer science major at Utah Valley University, 3.7 GPA.
 
-### Miscellaneous 
+## Miscellaneous 
 * Two-year humanitarian aid mission to Armenia. December 2013 – December 2015
 * Eagle scout award From Boy Scout of America. 2011
 * Rock climber. Current
