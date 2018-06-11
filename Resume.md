@@ -8,12 +8,12 @@ P8tter@gmail.com
 * Bilingual – Armenian  
 
 ### Experience
-Frontpoint –– Centerville, Utah –– May 2011 - June 2013
+**Frontpoint** –– *Centerville, Utah* –– May 2011 - June 2013
 * Provided clients with IT support by remoting onto their machines to solve problems. 
 * Installed hardware for clients onsite afterhours 
 * Cabled 2 office buildings and 65 smaller office jobs for clients 
-* * pulled CAT-6 from the server to destinations
-* * punched down both sides 
+  * pulled CAT-6 from the server to destinations
+  * punched down both sides 
 
 Triguard Pest Control –– Seattle, Washington –– May 2017 - Aug 2017
 •	Listened to customers about their current problems and explained to them how I was going to resolve their situation. 
