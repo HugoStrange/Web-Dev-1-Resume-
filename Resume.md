@@ -2,7 +2,7 @@
 801-721-6180  
 P8tter@gmail.com
 
-###nSkills  
+### Skills  
 * C++   
 * Customer service expert  
 * Bilingual – Armenian  
